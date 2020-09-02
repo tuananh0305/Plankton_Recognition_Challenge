@@ -1,5 +1,5 @@
 # Plankton Recognition
-In this challenge, we deal with an image dataset of piece of oceanic ecosystems. This challenge aims at developing solid approaches to plankton image classification. Beyond simply producing a well-performing model for making predictions, in this challenge we would like you to start developing your skills as a machine learning scientist. In this regard, your notebook should be structured in such a way as to explore the following tasks that are expected to be carried out whenever undertaking such a project. 
+In this challenge, we deal with an image dataset of piece of oceanic ecosystems. This challenge aims at developing solid approaches to plankton image classification. Beyond simply producing a well-performing model for making predictions, in this challenge we would like you to start developing your skills as a machine learning scientist. In this regard, the notebook should be structured in such a way as to explore the following tasks that are expected to be carried out whenever undertaking such a project. 
 
 # Dataset
 You can download the dataset [here](https://drive.google.com/file/d/1kkv9wH0IuPbODt0gdEx_a1aXSnQ6ZNc5/view?usp=sharing)
